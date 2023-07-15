@@ -1,0 +1,19 @@
+{
+  "name": "jendri",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript application framework",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onkiup/jendri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onkiup/jendri/issues"
+  },
+  "homepage": "https://github.com/onkiup/jendri#readme"
+}
